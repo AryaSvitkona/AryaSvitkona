@@ -15,5 +15,5 @@ Full-Stack Developer at [swissQprint](https://swissqprint.com);<br>
 - 🖼️ Framework: Laravel, Symfony, Shopware 5, Shopware 6, Swagger,
 
 #### Connect with me:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stefano-rutishauser-022500203/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/stefano-rutishauser-022500203/" /></a>
+<a href="https://www.linkedin.com/in/stefano-rutishauser-022500203/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/stefano-rutishauser-022500203/" /></a>
 
