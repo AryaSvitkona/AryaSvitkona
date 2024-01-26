@@ -1,16 +1,19 @@
-### Hi there 👋
+### Glad you found me 🍾
 
-<!--
-**AryaSvitkona/AryaSvitkona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Full-Stack Developer by day 🌎  and a do-gooder by night ☾
 
-Here are some ideas to get you started:
+Full-Stack Developer at [swissQprint](https://swissqprint.com);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I use daily: `.php`, `.js`, `.html`, `.css`, `.vue`, `.sh`
+- 💡 Crafted: [tuning-events.ch](https://www.tuning-events.ch/) and a huge amount of unrealized concepts
+- 💬 You have my attention with: **innovation**, **laravel**, **shopware**, **raspberry-pi**, **bash**, **helicopter**, **led**
+
+#### Familiar with:
+- 🖥️ DevOps: Plesk, Gitlab CI, Docker, Kubernetes, Bash, Git
+- 🎨 Frontend: HTML5, CSS3, Bootstrap 4, Vue 2,
+- ⚙️ Backend: PHP 7, PHP 8, OOP, Node.JS
+- 🖼️ Framework: Laravel, Symfony, Shopware 5, Shopware 6, Swagger,
+
+#### Connect with me:
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/stefano-rutishauser-022500203/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/stefano-rutishauser-022500203/" /></a>
+
